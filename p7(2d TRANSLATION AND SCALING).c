@@ -20,7 +20,6 @@ int main()
     draw(x1,y1,x2,y2);
     scale();
     translate();
-    fillcolour(55,55,0,10);
     getch();
     closegraph();
     return 0;
